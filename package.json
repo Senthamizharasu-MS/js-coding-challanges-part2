@@ -1,0 +1,21 @@
+{
+  "name": "js-coding-challanges-part2",
+  "version": "1.0.0",
+  "description": "---",
+  "homepage": "https://github.com/Senthamizharasu-MS/js-coding-challanges-part2#readme",
+  "bugs": {
+    "url": "https://github.com/Senthamizharasu-MS/js-coding-challanges-part2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senthamizharasu-MS/js-coding-challanges-part2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
